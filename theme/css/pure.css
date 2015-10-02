@@ -83,7 +83,7 @@ pre {
     margin: 0;
 }
 .brand-title {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 
 .article-info {
@@ -112,7 +112,7 @@ pre {
 }
 
 .brand-main a {
-    /*text-transform: uppercase;*/
+    /*text-transform: uppercase*/;
     text-decoration: none;
     margin-left: 15px;
     font-size: 25px;
@@ -152,7 +152,7 @@ pre {
 }
 
 .content-subhead {
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     color: #aaa;
     border-bottom: 1px solid #eee;
     padding: 0.4em 0;
