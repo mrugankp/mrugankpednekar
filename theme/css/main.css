@@ -102,7 +102,7 @@ li { margin-top: 0.5em;
 .readmore { float: right }
 
 dl {margin: 0 0 1.5em 0;}
-dt {font-weight: bold;}
+dt {font-weight: lighter;}
 dd {margin-left: 1.5em;}
 
 pre{background-color:  rgb(238, 238, 238); padding: 10px; margin: 10px; overflow: auto;}
@@ -165,7 +165,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
 		display: block;
-		font-weight: bold;
+		font-weight: lighterw;
 		margin: 0 0 .6em .2em;
 		text-decoration: none;
 	}
