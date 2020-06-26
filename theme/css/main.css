@@ -20,7 +20,7 @@ body {
     font-weight: lighter;
     background: #F5F4EF;
     color: #000305;
-    font-size: 75%; /* Base font size: 14px */
+    /*font-size: 75%; *//* Base font size: 14px */
     font-family: Arial Narrow, sans-serif, Arial, Helvetica;
     line-height: 1.429;
     margin: 0;
@@ -37,7 +37,7 @@ h5 {font-size: 1.143em}	/* 16px */
 h6 {font-size: 1em}		/* 14px */
 
 h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
+	font-weight: lighter;
 	line-height: 1.1;
 	margin-bottom: .8em;
     font-family:  Arial Narrow, sans-serif, Arial, Helvetica;
