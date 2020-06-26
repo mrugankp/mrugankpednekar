@@ -13,11 +13,11 @@
 .highlight .cs { color: #999999 } /* Comment.Special */
 .highlight .gd { color: #f2777a } /* Generic.Deleted */
 .highlight .ge { font-style: italic } /* Generic.Emph */
-.highlight .gh { color: #cccccc; font-weight: bold } /* Generic.Heading */
+.highlight .gh { color: #cccccc; font-weight: lighter } /* Generic.Heading */
 .highlight .gi { color: #99cc99 } /* Generic.Inserted */
-.highlight .gp { color: #999999; font-weight: bold } /* Generic.Prompt */
+.highlight .gp { color: #999999; font-weight: lighter } /* Generic.Prompt */
 .highlight .gs { font-weight: bold } /* Generic.Strong */
-.highlight .gu { color: #66cccc; font-weight: bold } /* Generic.Subheading */
+.highlight .gu { color: #66cccc; font-weight: lighter } /* Generic.Subheading */
 .highlight .kc { color: #cc99cc } /* Keyword.Constant */
 .highlight .kd { color: #cc99cc } /* Keyword.Declaration */
 .highlight .kn { color: #66cccc } /* Keyword.Namespace */
