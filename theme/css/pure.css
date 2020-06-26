@@ -116,6 +116,7 @@ pre {
     text-decoration: none;
     margin-left: 15px;
     font-size: 25px;
+    font-weight: lighter;
     color: #fff;
     border-bottom: 1px solid rgba(255,255,255,0.3);
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
@@ -127,6 +128,7 @@ pre {
     line-height: 15px;
     margin-left: 15px;
     font-size: 80%;
+        font-weight: lighter;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     color: #fff;
 }
@@ -145,6 +147,7 @@ pre {
     font-size: 15px;
     padding-left: 15px;
     font-family: sans-serif;
+            font-weight: lighter;
     letter-spacing: 2px;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     text-decoration: none;
@@ -158,6 +161,8 @@ pre {
     padding: 0.4em 0;
     font-size: 80%;
     font-weight: 500;
+            font-weight: lighter;
+
     letter-spacing: 0.1em;
 }
 
@@ -165,6 +170,8 @@ pre {
     padding: 2em 3em 0;
     max-width: 1000px;
     font-size: 110%;
+            font-weight: lighter;
+
     line-height: 1.45;
     color: #333332;
 }
@@ -175,11 +182,15 @@ pre {
 }
 .post-title {
     font-size: 1.5em;
+            font-weight: lighter;
+
     color: #333332;
     letter-spacing: -1px;
 }
 .post-meta {
     color: #999;
+            font-weight: lighter;
+
     font-size: 90%;
     margin-top: -10px;
 }
@@ -188,6 +199,8 @@ pre {
     margin: 0 0.1em;
     padding: 0.2em 0.6em;
     color: #fff;
+            font-weight: lighter;
+
     background: #999;
     font-size: 90%;
 }
@@ -207,6 +220,8 @@ pre {
 
 .archive-meta {
     color: #999;
+            font-weight: lighter;
+
     font-size: 80%;
     margin: -1px 0 0 0;
 }
@@ -214,6 +229,8 @@ pre {
 .footer {
     text-align: center;
     padding: 2em 0;
+            font-weight: lighter;
+
     font-size: 75%;
 }
 .footer .pure-menu a:hover,
@@ -230,6 +247,8 @@ pre {
 }
 .pagination {
     font-size: 80%;
+            font-weight: lighter;
+
     text-align: center;
     position: relative;
     width: 450px;
@@ -246,6 +265,8 @@ pre {
 .go-top {
     position: fixed;
     bottom: 2em;
+            font-weight: lighter;
+
     right: 2em;
     text-decoration: none;
     color: white;
@@ -261,6 +282,8 @@ pre {
 
 .highlight pre {
     font-size: 75%;
+            font-weight: lighter;
+
 }
 
 /* LAYOUT CSS */
