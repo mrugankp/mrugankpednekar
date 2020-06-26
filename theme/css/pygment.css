@@ -10,7 +10,7 @@ border:1px solid #FF0000;
 }
 .k {
 color:#007020;
-font-weight:bold;
+font-weight:lighter;
 }
 .o {
 color:#666666;
@@ -41,7 +41,7 @@ color:#FF0000;
 }
 .gh {
 color:#000080;
-font-weight:bold;
+font-weight:lighter;
 }
 .gi {
 color:#00A000;
@@ -51,36 +51,36 @@ color:#303030;
 }
 .gp {
 color:#C65D09;
-font-weight:bold;
+font-weight:lighter;
 }
 .gs {
-font-weight:bold;
+font-weight:lighter;
 }
 .gu {
 color:#800080;
-font-weight:bold;
+font-weight:lighter;
 }
 .gt {
 color:#0040D0;
 }
 .kc {
 color:#007020;
-font-weight:bold;
+font-weight:lighter;
 }
 .kd {
 color:#007020;
-font-weight:bold;
+font-weight:lighter;
 }
 .kn {
 color:#007020;
-font-weight:bold;
+font-weight:lighter;
 }
 .kp {
 color:#007020;
 }
 .kr {
 color:#007020;
-font-weight:bold;
+font-weight:lighter;
 }
 .kt {
 color:#902000;
@@ -120,22 +120,22 @@ color:#06287E;
 }
 .nl {
 color:#002070;
-font-weight:bold;
+font-weight:lighter;
 }
 .nn {
 color:#0E84B5;
-font-weight:bold;
+font-weight:lighter;
 }
 .nt {
 color:#062873;
-font-weight:bold;
+font-weight:lighter;
 }
 .nv {
 color:#BB60D5;
 }
 .ow {
 color:#007020;
-font-weight:bold;
+font-weight:lighter;
 }
 .w {
 color:#BBBBBB;
@@ -167,7 +167,7 @@ color:#4070A0;
 }
 .se {
 color:#4070A0;
-font-weight:bold;
+font-weight:lighter;
 }
 .sh {
 color:#4070A0;
