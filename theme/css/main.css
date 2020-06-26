@@ -17,10 +17,11 @@
 /***** Global *****/
 /* Body */
 body {
+    font-weight: lighter;
     background: #F5F4EF;
     color: #000305;
     font-size: 75%; /* Base font size: 14px */
-    font-family: Inconsolata, Arial Narrow, sans-serif, Arial, Helvetica;
+    font-family: Arial Narrow, sans-serif, Arial, Helvetica;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -39,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	line-height: 1.1;
 	margin-bottom: .8em;
-    font-family: Inconsolata, Arial Narrow, sans-serif, Arial, Helvetica;
+    font-family:  Arial Narrow, sans-serif, Arial, Helvetica;
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
